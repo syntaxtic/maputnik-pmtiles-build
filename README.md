@@ -1,1 +1,1 @@
-Build (dist) folder from [syntaxtic/maputnik-with-pmtiles](https://github.com/syntaxtic/maputnik-with-pmtiles).
+Build (dist) folder from [syntaxtic/maputnik-with-pmtiles](https://github.com/syntaxtic/maputnik-with-pmtiles). Check out the deployment link and test your Map styles with pmtiles ptorocol: [maputnik-pmtiles.vercel.app](https://maputnik-pmtiles.vercel.app)
